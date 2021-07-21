@@ -9,8 +9,11 @@ It based on a Spring Boot and contains some unit test using Juint.
 
 ##### EndPoints: 
 > https://api-us1.whatslly.com/test/ping.json
+
 > https://api-br1.whatslly.com/test/ping.json
+
 > https://api-eu1.whatslly.com/test/ping.json
+
 > https://api-st1.whatslly.com/test/ping.json
 
 Each endpoint returns JSON represented by
