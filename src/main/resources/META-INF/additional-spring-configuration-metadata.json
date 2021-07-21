@@ -1,0 +1,157 @@
+{"properties": [
+  {
+    "name": "test.wtly.path",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.path'"
+  },
+  {
+    "name": "test.wtly.servers",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.servers'"
+  },
+  {
+    "name": "test.wtly.testpath",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.testpath'"
+  },
+  {
+    "name": "test.wtly.endpoints",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.endpoints'"
+  },
+  {
+    "name": "test.wtly.salesforceversion",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.salesforceversion'"
+  },
+  {
+    "name": "test.wtly.requestloadtest",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.requestloadtest'"
+  },
+  {
+    "name": "test.wtly.base.path",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.base.path'"
+  },
+  {
+    "name": "test.wtly.appversions",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.appversions'"
+  },
+  {
+    "name": "test.wtly.Salesforceversion",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.Salesforceversion'"
+  },
+  {
+    "name": "test.wtly.test.path",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.test.path'"
+  },
+  {
+    "name": "test.wtly.Salesforceversion",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.Salesforceversion'"
+  },
+  {
+    "name": "test.wtly.Salesforceversion",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.Salesforceversion'"
+  },
+  {
+    "name": "test.wtly.Salesforceversion",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.Salesforceversion'"
+  },
+  {
+    "name": "test.wtly.Salesforceversion",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.Salesforceversion'"
+  },
+  {
+    "name": "test.wtly.Salesforceversion",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.Salesforceversion'"
+  },
+  {
+    "name": "test.wtly.Salesforceversion",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.Salesforceversion'"
+  },
+  {
+    "name": "test.wtly.Salesforceversion",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.Salesforceversion'"
+  },
+  {
+    "name": "test.wtly.Salesforceversion",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.Salesforceversion'"
+  },
+  {
+    "name": "test.wtly.Salesforceversion",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.Salesforceversion'"
+  },
+  {
+    "name": "test.wtly.app.versions",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.app.versions'"
+  },
+  {
+    "name": "test.wtly.Salesforceversion",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.Salesforceversion'"
+  },
+  {
+    "name": "test.wtly.overload.requestNumber",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.overload.requestNumber'"
+  },
+  {
+    "name": "test.wtly.url.base.path",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.url.base.path'"
+  },
+  {
+    "name": "test.wtly.url.test.path.ok",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.url.test.path.ok'"
+  },
+  {
+    "name": "test.wtly.url.test.path.bad",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.url.test.path.bad'"
+  },
+  {
+    "name": "test.wtly.url.test.path.invalid",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.url.test.path.invalid'"
+  },
+  {
+    "name": "test.wtly.saEndpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.saEndpoint'"
+  },
+  {
+    "name": "test.wtly.overload.newPackage",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.overload.newPackage'"
+  },
+  {
+    "name": "test.wtly.newPackage",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.newPackage'"
+  },
+  {
+    "name": "test.wtly.other.saEndpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.other.saEndpoint'"
+  },
+  {
+    "name": "test.wtly.other.saEndpoint.servers",
+    "type": "java.lang.String",
+    "description": "A description for 'test.wtly.other.saEndpoint.servers'"
+  }
+]}
